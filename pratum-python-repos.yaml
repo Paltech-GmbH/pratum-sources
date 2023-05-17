@@ -1,4 +1,4 @@
 geopandas:
-  debian:
+  ubuntu:
     pip:
       packages: [geopandas]
