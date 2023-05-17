@@ -1,0 +1,4 @@
+geopandas:
+  debian:
+    pip:
+      packages: [geopandas]
