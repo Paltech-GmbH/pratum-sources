@@ -2,3 +2,9 @@ geopandas:
   ubuntu:
     pip:
       packages: [geopandas]
+      
+solopy:
+  ubuntu:
+    pip:
+      packages: [SoloPy]
+
